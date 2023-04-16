@@ -1,4 +1,4 @@
-This is my first pet project in deep learning (computer vision). I implemented a complete classical ml pipeline, which includes:
+This is my first pet project in deep learning (computer vision). I implemented a complete classical ml pipeline including:
 
 * Data prepartaion with custom PyTorch dataset
 
